@@ -1,0 +1,4 @@
+KMeansCluster,n_customers,churn_rate,avg_CreditScore,avg_Age,avg_Tenure,avg_Balance,avg_NumOfProducts,avg_EstimatedSalary
+0,2509,0.324,651.454,39.772,5.01,119730.116,1.52,101113.435
+1,5014,0.162,649.668,38.512,5.005,62092.637,1.531,99899.181
+2,2477,0.167,651.334,38.891,5.032,61818.148,1.539,99440.572
